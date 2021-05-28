@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Q1 {
     public static void main(String[] args) {
         int n, i,j=0,score; 
         Scanner in=new Scanner(System.in); 
